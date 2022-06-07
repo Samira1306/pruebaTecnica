@@ -1,0 +1,3 @@
+Por medio de los comandos que ofrece angular realicé la creación del proyecto, los diseños loa realicé con tailwind,
+la lectura de la api se realzó por medio de los metodos get animales y get animal, los cuales ayudan a que se filtre la
+información que esta contiene, el listado y el botón de agregar me dieron algunos problemas que no alcancé a resolver.
