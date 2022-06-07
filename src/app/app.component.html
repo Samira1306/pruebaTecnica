@@ -1,0 +1,52 @@
+<br />
+<a
+  routerLink="/servicioprueba/prueba"
+  class="text-white bg-purple-700 hover:bg-purple-800 focus:outline-none focus:ring-purple-300 font-medium text-sm px-4 py-2.5 text-center inline-flex items-center dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-800 mx-6"
+  type="button"
+  >Agregar<svg
+    class="w-4 h-4 ml-2"
+    fill="none"
+    stroke="currentColor"
+    viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="2"
+      d="M19 9l-7 7-7-7"
+    ></path></svg
+></a>
+<a
+  routerLink="/servicioprueba/prueba"
+  class="bg-transparent hover:bg-purple-500 text-purple-700 font-semibold hover:text-white py-2 px-4 border border-purple-500 hover:border-transparent rounded"
+  type="button"
+  >Agregar</a
+>
+
+<fieldset class="">
+  <div class="relative overflow-x-auto shadow-md sm:rounded-lg my-4">
+    <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
+      <thead
+        class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400"
+      >
+        <tr>
+          <th scope="col" class="px-6 py-3">Id</th>
+          <th scope="col" class="px-6 py-3">Tipo</th>
+          <th scope="col" class="px-6 py-3">Nombre</th>
+          <th scope="col" class="px-6 py-3">Observación</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr
+          *ngFor="let j of animales"
+          class="bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600"
+        >
+          <th>{{ j.Nombre }}</th>
+          <th>{{ j.Tipo }}</th>
+          <th>{{ j.Observacion }}</th>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</fieldset>

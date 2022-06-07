@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "Tipo": "Perro",
+      "Nombre": "Pascual",
+      "Observacion": "Esta mal"
+  },
+  {
+      "id": 4,
+      "Tipo": "Gato",
+      "Nombre": "Icaro",
+      "Observacion": "Es un gatico cachorro que esta en la calle"
+  
+  }, 
+  {
+      "id": 3,
+      "Tipo": "Caballo",
+      "Nombre": "Oreo",
+      "Observacion": "Esta denutrido"
+  }, 
+  {
+      "id": 2,
+      "Tipo": "Perro",
+      "Nombre": "Sacha",
+      "Observacion": "Tiene un ojo  herido"
+  },
+    {
+      "id": 5,
+      "Tipo": "Gato",
+      "Nombre": "Nica",
+      "Observacion": "Es una gatica que acabo de dar a luz"
+  },
+  {
+      "id": 6,
+      "Tipo": "Pajaro",
+      "Nombre": "Cantor",
+      "Observacion": "Tiene una ala aproriada"
+  }, 
+  {
+      "id": 7,
+      "Tipo": "Perro",
+      "Nombre": "scott",
+      "Observacion": "Esta muy herido"
+  }, 
+  {
+      "id": 8,
+      "Tipo": "Perro",
+      "Nombre": "Toby",
+      "Observacion": "Para adopcion"
+  },
+  {
+      "id": 9,
+      "Tipo": "Gato",
+      "Nombre": "Sas",
+      "Observacion": " para dar en adopcion"
+  },
+  {
+      "id": 10,
+      "Tipo": "Gato",
+      "Nombre": "NN",
+      "Observacion": "Esta mal"
+  },
+  {
+      "id":11,
+      "Tipo": "Perro",
+      "Nombre": "Boxer",
+      "Observacion": "Se ve que tiene dueño esta muy bien "
+  },
+  {
+      "id": 12,
+      "Tipo": "Perro",
+      "Nombre": "NN",
+      "Observacion": "Lo dejaron en una caja , con  dos piernas rotas"
+  },
+  {
+      "id": 13,
+      "Tipo": "Perro",
+      "Nombre": "Toby",
+      "Observacion": "Parece que tiene dueño por que esta muy bien "
+  },
+  {
+      "id": 14,
+      "Tipo": "Gato",
+      "Nombre": "Tobias",
+      "Observacion": "Para adopcion"
+  },
+  {
+      "id": 15,
+      "Tipo": "Gato",
+      "Nombre": "sin nombre",
+      "Observacion": "Para dar en adopcion"
+  },
+  {
+      "id": 16,
+      "Tipo": "Perro",
+      "Nombre": "Kiko",
+      "Observacion": "en adopcion"
+      
+  }
+  
+  ]
